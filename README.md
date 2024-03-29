@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deesick
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Digital Forensics and Incident Response
+- 👀 I’m interested in Information Security/Cybersecurity
+- 🌱 I’m currently learning how to use Digital Forensics and Incident Response tools
 - 💞️ I’m looking to collaborate on exciting projects to improve my skills
-- 📫 How to reach me @deesick_ on Twitter, StackOverflow, Discord and pretty much everywhere else 
+- 📫 Reach me @deesick_ on Twitter, StackOverflow, Discord and pretty much everywhere else 
 - 😄 Pronouns: ...HIM!
 - ⚡ Fun fact: ...
 
