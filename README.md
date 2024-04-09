@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/deesick_
 [youtube]: https://www.youtube.com/@deesick_
 [instagram]: https://www.instagram.com/deesick_/
-[linkedin]: https://www.linkedin.com/in/daniel-ayodeji-66954477/
+[linkedin]: https://www.linkedin.com/in/deesick/
 
 <!--
 **Deesick/Deesick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
